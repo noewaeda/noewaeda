@@ -31,7 +31,7 @@ Leave GitHub, at all costs, as soon as possible.
 
 Now, I'm not telling you to delete your account or anything like that. Simply, all that you need is to leave *slowly*. Slowly migrate your projects onto your local storage, as well as other Git platforms. You can also self-host your own Git platforms.
 
-If you're lucky, most of your repositories are private and/or have very little attention. This makes it easy to move repositories, as no-one is going to care. If you're smart, you can go to [Account settings](https://github.com/settings/admin), and click "Start export" under "Export account data". This will export all of your data.
+If you're lucky, most of your repositories are private and/or have very little attention. This makes it easy to move repositories, as no-one is going to care. If you're clever, you can go to [Account settings](https://github.com/settings/admin), and click "Start export" under "Export account data". This will export all of your data.
 
 If you're unlucky, your repositories may have some establishment on GitHub. Your repositories might have open issues, PRs, and forks that are too valuable to simply just erase. In this case, you can follow the Software Freedom Conservacy's advice for migrating projects by replacing the README with [this](https://sfconservancy.org/static/docs/GiveUpGitHub-README.md) and hosting it on a different platform. For projects which are too large to pull away from GitHub immediately, add [this section](https://sfconservancy.org/static/docs/SupportGiveUpGitHub-README-snippet.md) on your project's README.
 
@@ -45,3 +45,4 @@ I will not use any other product that is created by Microsoft. Not in a million 
 
 [^1]: I had to censor it, just in case.
 [^2]: Yes, you read that right. There's nothing social about useless badges and "numbers going up". I'm ashamed that I ever cared about that.
+[^3]: If you're not clever, you can *manually export tarballs* for every repository, and then *manually delete every repository*. Just kidding. Don't do that. You will regret it.
