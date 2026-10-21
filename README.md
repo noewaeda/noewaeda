@@ -1,4 +1,4 @@
-> I do not use GitHub. I do not want to use GitHub.
+> I do not use GitHub. I do not want to use GitHub.  
 > I advise against it. I am against Microsoft sh--!
 [^1]
 
