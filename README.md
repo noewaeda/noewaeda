@@ -20,7 +20,7 @@ There are also a lot of dark patterns on GitHub. I disabled the anti-social netw
 - "You have achievements, why not show them off to random strangers who have no idea who you are?"
 ![Screenshot of the nags in the interface](begging.png)
 
-I see what you're doing, Microsoft.
+> I see what you're doing, Microsoft.
 
 The idea of turning a website that was designed for sharing **code** into a sort of psuedo-microblogging platform is just... beyond strange.
 
