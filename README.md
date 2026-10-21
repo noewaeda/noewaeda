@@ -18,7 +18,9 @@ Copilot is a piece of garbage, and it's been shoved into every single corner of 
 There are also a lot of dark patterns on GitHub. I disabled the anti-social networking[^2] features,  and it constantly pushes me to reverse it:
 - "Hey, update your profile settings so you can get some internet clout from using our website way too much!"
 - "You have achievements, why not show them off to random strangers who have no idea who you are?"
-![Screenshot of the nags in the interface. I see what you're doing, Microsoft.](begging.png)
+![Screenshot of the nags in the interface](begging.png)
+
+I see what you're doing, Microsoft.
 
 The idea of turning a website that was designed for sharing **code** into a sort of psuedo-microblogging platform is just... beyond strange.
 
