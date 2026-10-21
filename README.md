@@ -1,5 +1,6 @@
-I do not use GitHub. I do not want to use GitHub.
-I advise against it. I am against Microsoft sh--![^1]
+> I do not use GitHub. I do not want to use GitHub.
+> I advise against it. I am against Microsoft sh--!
+[^1]
 
 [Disable "*Allow GitHub to use my data for AI model training*"](https://github.com/settings/copilot/features) in your settings.
 Find me [on Codeberg](https://codeberg.org/noewaeda).
